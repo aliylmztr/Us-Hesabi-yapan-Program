@@ -1,12 +1,6 @@
-# Us-Hesabi-Yapan-Program
-Java Üs Hesabı Yapan Program
-
-www.patika.dev
-
 import java.util.Scanner;
 
 public class Main {
-    
     static int power(int a, int b) {
         int result = 1;
         for (int i = 1; i <= b; i++) {

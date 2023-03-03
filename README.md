@@ -1,2 +1,2 @@
-# Us-Hesabi-yapan-Program
+# Us-Hesabi-Yapan-Program
 Java Üs Hesabı Yapan Program
